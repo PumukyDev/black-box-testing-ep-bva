@@ -30,10 +30,6 @@ python -m unittest tests.py -v
 
 ## Documentation
 
-You can view the full project documentation in the following links:
-
-## Documentation
-
 You can view the full project documentation in [PDF](https://github.com/PumukyDev/nombre/blob/gh-pages/ebook.pdf) or the [web page version](https://github.com/PumukyDev/nombre/tree/main/docs)
 
 ## License
