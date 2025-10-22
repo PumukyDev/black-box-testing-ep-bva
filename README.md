@@ -30,8 +30,8 @@ python -m unittest tests.py -v
 
 ## Documentation
 
-You can view the full project documentation in [PDF](https://github.com/PumukyDev/nombre/blob/gh-pages/ebook.pdf) or the [web page version](https://github.com/PumukyDev/nombre/tree/main/docs)
+You can view the full project documentation in [PDF](https://github.com/PumukyDev/black-box-testing-ep-bva/blob/gh-pages/ebook.pdf) or the [web page version](https://pumukydev.github.io/black-box-testing-ep-bva)
 
 ## License
 
-This project is under link:https://github.com/PumukyDev/black-box-testing-ep-bva/blob/main/LICENSE[MIT License]
+This project is under [MIT License](https://github.com/PumukyDev/black-box-testing-ep-bva/blob/main/LICENSE)
