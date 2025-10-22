@@ -1,11 +1,11 @@
 from decimal import Decimal
 
-def esAprobado(nota: Decimal) -> str:
-    if not isinstance(nota, (int, float, Decimal)):
-        raise ValueError("La nota debe ser un número")
+def isPassed(grade: Decimal) -> bool:
+    if not isinstance(grade, (int, float, Decimal)):
+        raise ValueError("The grade must be a number")
 
-    nota = Decimal(nota)
-    if nota < 0 or nota > 10:
-        raise ValueError("La nota debe estar entre 0 y 10")
+    grade = Decimal(grade)
+    if grade < 0 or grade > 10:
+        raise ValueError("The grade must be between 0 and 10")
 
-    return nota >= 5
+    return grade >= 5
